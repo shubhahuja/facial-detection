@@ -6,5 +6,5 @@ you can check out the full project at kaggle using following link
 
 
 the kaggle challenge and dataset can be found here
-
-  https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+ 
+    https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
